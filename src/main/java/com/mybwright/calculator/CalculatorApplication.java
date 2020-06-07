@@ -1,4 +1,4 @@
-package com.leszko.calculator;
+package com.mybwright.calculator;
 
 import com.hazelcast.client.config.ClientConfig;
 
